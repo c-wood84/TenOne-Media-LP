@@ -1,0 +1,23 @@
+{
+  "name": "TenOne-Media-LP",
+  "homepage": "https://github.com/c-wood84/TenOne-Media-LP",
+  "authors": [
+    "Wesley Chitwood <wesley.chitwood1@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "hover": "^2.1.1"
+  }
+}
