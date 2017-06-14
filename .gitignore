@@ -38,7 +38,13 @@ build/
 dist/
 maps/
 
+
 # Build Systems #
 ######################
 gulpfile.js
+
+
+# Build Systems #
+######################
+logos/
 
